@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr
+title: Dr Mike Blake
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
